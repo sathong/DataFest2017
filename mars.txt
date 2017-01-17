@@ -6,3 +6,5 @@ A change.
 Anther change.
 
 Online change.
+
+Online conflict change.
